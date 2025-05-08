@@ -371,11 +371,13 @@
 
     .tx h1 {
         width: 90% !important;
+
     }
 
     .tx p {
         width: 80% !important;
         margin: 15px auto !important;
+        margin-top: 40px !important;
     }
 
     .tx article {
@@ -398,7 +400,7 @@
         width: 9rem ;
     }
     .main .tx {
-        margin-top: 60px;
+        margin-top: -10px !important;
 
     }
 }
@@ -455,6 +457,10 @@
     }
     .tx button {
         width: 9rem ;
+    }
+    .main .tx {
+        margin-top: 10px !important;
+
     }
 }
 
