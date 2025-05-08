@@ -116,15 +116,7 @@ function Tools() {
     <div className="skill-item">
       <img src='/app/Flutter.png' className="skill-icon" />
     </div>
-    <div className="skill-item">
-      <img src='/app/Ionic.png' className="skill-icon" />
-    </div>
-    <div className="skill-item">
-      <img src='/app/Swift-UI.png' className="skill-icon" />
-    </div>
-    <div className="skill-item">
-      <img src='/app/Swift.png' className="skill-icon" />
-    </div>
+    
     
   </div>
 </section>
@@ -153,13 +145,7 @@ function Tools() {
       <img src='/db/Nginx-server.png' className="skill-icon" />
     </div>
     <div className="skill-item">
-      <img src='/db/Maria-DB.png' className="skill-icon" />
-    </div>
-    <div className="skill-item">
       <img src='/db/VPS.png' className="skill-icon" />
-    </div>
-    <div className="skill-item">
-      <img src='/db/Digital-Ocean.png' className="skill-icon" />
     </div>
 
   </div>
@@ -180,28 +166,13 @@ function Tools() {
       <img src='\tools\Github.png' className="skill-icon" />
     </div>
     <div className="skill-item">
-      <img src='\tools\Gitlab.png' className="skill-icon" />
-    </div>
-    <div className="skill-item">
       <img src='\tools\Atoms.png' className="skill-icon" />
-    </div>
-    <div className="skill-item">
-      <img src='\tools\Jira.png' className="skill-icon" />
-    </div>
-    <div className="skill-item">
-      <img src='\tools\Sublime.png' className="skill-icon" />
     </div>
     <div className="skill-item">
       <img src='\tools\Photoshop.png' className="skill-icon" />
     </div>
     <div className="skill-item">
       <img src='\tools\Adobe-XD.png' className="skill-icon" />
-    </div>
-    <div className="skill-item">
-      <img src='\tools\Asana.png' className="skill-icon" />
-    </div>
-    <div className="skill-item">
-      <img src='\tools\Bitbucket.png' className="skill-icon" />
     </div>
     
   </div>
