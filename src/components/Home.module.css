@@ -24,13 +24,15 @@
     margin-right: 0px;
     display: block;
     width: 500px !important;
+    height: 80px !important;
 }
 
 .tx .type {
     margin-left: 10px;
     color: rgb(242, 149, 49);
-    width: 90px;
 }
+
+
 
 .tx p {
     position: relative;
@@ -369,7 +371,7 @@
     }
 
     .tx h1 {
-        width: 90% !important;
+        width: 90% ;
     }
 
     .tx p {

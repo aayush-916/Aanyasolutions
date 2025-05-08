@@ -16,7 +16,7 @@ function Home() {
         viewport={{ once: true, amount: 0.5 }} // Trigger when 50% of the element is visible
       >
         <div className={styles.tx}>
-          <h1>
+          <h1 id="tyw">
           We specialize in
             <ReactTypingEffect
               text={["Back Office Management ", "Inventory Management ", "Graphic Designing ", "Website Designing "]}
