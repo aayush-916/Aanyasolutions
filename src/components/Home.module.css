@@ -14,26 +14,24 @@
 
 .main .tx {
     margin-top: 80px;
-    margin-left:auto;
+    margin-left: 50px;
     width: 50%;
 }
 
 .tx h1 {
-    font-size: 32px;
+    font-size: 30px;
     font-family: Nunito Sans, sans-serif;
     margin-right: 0px;
     display: block;
     width: 500px !important;
-    height: 80px !important;
+    height: 82px !important;
 }
 
 .tx .type {
-    margin-left: auto;
-    color: rgb(242, 149, 49);
     margin-left: 10px;
+    color: rgb(242, 149, 49);
+    width: 90px;
 }
-
-
 
 .tx p {
     position: relative;
@@ -372,7 +370,7 @@
     }
 
     .tx h1 {
-        width: 90% ;
+        width: 90% !important;
     }
 
     .tx p {
