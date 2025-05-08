@@ -1,0 +1,57 @@
+import React from 'react';
+import './InventoryManagement.css';
+import { FaBoxes, FaClipboardList, FaTruckLoading, FaChartBar } from 'react-icons/fa';
+import Nav from '../Nav';
+import Footer from '../Footer';
+import Whatsapp from '../Whatsapp';
+
+const InventoryManagement = () => {
+  return (
+    <>
+        <Nav/>
+    
+    <div className="inventory-container">
+      <h1 className="inventory-title">Streamlined Inventory Management Solutions</h1>
+
+      <img src="/invantry.jpg" alt="Inventory Management" className="inventory-image" />
+
+      <p className="inventory-text">
+        At Aanya Solutions, we understand that inventory management can be a real challenge. That's why we offer streamlined solutions to help you get it right. No more stockouts, no more wasted money. We provide real-time data and expert advice so you can make smart decisions. Partner with us, and you can focus on the fun parts of your business, like growing and innovating.
+      </p>
+
+      <h2 className="inventory-subtitle">Our Key Services</h2>
+
+      <div className="inventory-features">
+        <div className="feature-box">
+          <FaBoxes className="feature-icon boxes-icon" />
+          <h3 className="feature-title">Inventory Tracking</h3>
+          <p className="feature-text">
+            Keeping tabs on your inventory can feel like a juggling act. Lost stock means unhappy customers, missed sales, and wasted money. Our inventory tracking solutions offer more than just data entry; they provide real-time insights, automate tedious manual tasks, and eliminate discrepancies. Imagine knowing exactly what you have, when you need it. This lets you make smart ordering decisions, avoid stockouts, and empowers your team to focus on creating amazing customer experiences.
+          </p>
+        </div>
+
+        <div className="feature-box">
+          <FaClipboardList className="feature-icon clipboard-icon" />
+          <h3 className="feature-title">Order Fulfillment (Purchasing)</h3>
+          <p className="feature-text">
+            Tired of wrestling with manual purchase orders? We've got you covered. Our streamlined approach makes the whole process easier. We'll automate parts like creating and sending orders, and our expert team ensures everything's accurate. This means faster approvals, better communication with your suppliers, and more control over your spending, so you can focus on what matters most.
+          </p>
+        </div>
+
+        <div className="feature-box">
+          <FaChartBar className="feature-icon chart-icon" />
+          <h3 className="feature-title">Inventory Audit & Analysis</h3>
+          <p className="feature-text">
+            We're dedicated to ensuring your inventory data is reliable and accurate. We understand the critical role it plays in your business decisions. Our specialized Inventory Audits and Analysis services offer a comprehensive review, going beyond simple checks. We provide strategic insights, empowering you to make continuous improvements and optimize your inventory management.
+          </p>
+        </div>
+      </div>
+    </div>
+    <Whatsapp/>
+    <Footer/>
+
+    </>
+  );
+};
+
+export default InventoryManagement;
