@@ -14,7 +14,7 @@ function Footer() {
         <div className={styles['footer-details']}>
           <h3>Contact Us</h3>
           <p> 1535, Sector 16A, Vasundhara, Ghaziabad-201012 </p>
-          <p>Phone: <span className={styles['contact-placeholder']}><a href="tel:+1">+1 </a></span></p>
+          <p>Phone: <span className={styles['contact-placeholder']}><a href="tel:+918368859076">+91 8368859076 </a></span></p>
           <p>Email: <span className={styles['contact-placeholder']}><a href=""></a></span></p>
           <p>Email: <span className={styles['contact-placeholder']}><a href=""></a></span></p>
         </div>
@@ -46,7 +46,7 @@ function Footer() {
       </div>
 
       <div className={styles['footer-bottom']}>
-        <p>&copy; 2024 Aanya Solutions. All rights reserved.</p>
+        <p>&copy; 2025 Aanya Solutions. All rights reserved.</p>
       </div>
     </footer>
   );

@@ -95,10 +95,10 @@ function ContactUs() {
             {/* Contact Info */}
             <div className={styles["contact-info"]}>
               <p className={styles["contact-details"]}>
-                <span>Email:</span> <a href="support@leafcode.in">support@</a>
+                <span>Email:</span> <a href="sunilgupta@aanyasolutions.net">sunilgupta@aanyasolutions.net</a>
               </p>
               <p className={styles["contact-details"]}>
-                <span>Phone:</span> <a href="tel:+917542019191">+1 </a>
+                <span>Phone:</span> <a href="tel:+91 8368859076">+91 8368859076 </a>
               </p>
             </div>
 
