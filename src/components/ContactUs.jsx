@@ -82,7 +82,7 @@ function ContactUs() {
         <title>Contact - Aanya Solutions</title>
         <meta
           name="description"
-          content="Get in touch with LeafCode Technology – the best website design and app development company in Patna. Email us at support@leafcode.in or call +91 7542019191 for expert IT solutions tailored to your needs."
+          content="Get in touch with Aanya Solutions – the best website design and app development company in India. Email us at support@leafcode.in or call +91 7542019191 for expert IT solutions tailored to your needs."
         />
       </Helmet>
       <Nav />

@@ -14,10 +14,10 @@ function ServicesPage() {
   return (
     <>
     <Helmet>
-        <title>Services - LeafCode Technology</title>
+        <title>Services - Aanya Solutions</title>
         <meta
           name="description"
-          content="Discover premium services at LeafCode Technology – the best website design, app development, software solutions, and SEO services in Patna. Empowering your business with innovative digital solutions."
+          content="Discover premium services at Aanya Solutions – the best website design, app development, software solutions, and SEO services in India. Empowering your business with innovative digital solutions."
         />
       </Helmet>
         <Nav/>

@@ -11,10 +11,10 @@ function Portfolio() {
   return (
     <>
     <Helmet>
-        <title>Portfolio - LeafCode Technology</title>
+        <title>Portfolio - Aanya Solutions</title>
         <meta
           name="description"
-          content="Explore the portfolio of LeafCode Technology – the best website design, app development, and software company in Patna. View our successful projects and see how we deliver innovative IT solutions for businesses."
+          content="Explore the portfolio of Aanya Solutions – the best website design, app development, and software company in India. View our successful projects and see how we deliver innovative IT solutions for businesses."
         />
       </Helmet>
       <Nav />

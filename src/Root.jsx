@@ -16,10 +16,10 @@ function App() {
   return (
     <>
     <Helmet>
-        <title>LeafCode Technology | Website Development Company in Patna</title>
+        <title>Aanya Solutions | Website Development Company in India</title>
         <meta
           name="description"
-          content="LeafCode Technology - Your trusted partner for website design, app development, and software solutions in Patna. We specialize in modern, user-friendly websites, innovative apps, and comprehensive IT services to help businesses grow."
+          content="Aanya Solutions - Your trusted partner for website design, app development, and software solutions in India. We specialize in modern, user-friendly websites, innovative apps, and comprehensive IT services to help businesses grow."
         />
       </Helmet>
 
