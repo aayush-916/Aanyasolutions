@@ -15,8 +15,8 @@ function Footer() {
           <h3>Contact Us</h3>
           <p> 1535, Sector 16A, Vasundhara, Ghaziabad-201012 </p>
           <p>Phone: <span className={styles['contact-placeholder']}><a href="tel:+918368859076">+91 8368859076 </a></span></p>
-          <p>Email: <span className={styles['contact-placeholder']}><a href=""></a></span></p>
-          <p>Email: <span className={styles['contact-placeholder']}><a href=""></a></span></p>
+          <p>Email: <span className={styles['contact-placeholder']}><a href="">sunilgupta@aanyasolutions.net</a></span></p>
+          {/* <p>Email: <span className={styles['contact-placeholder']}><a href=""></a></span></p> */}
         </div>
 
         <div className={styles['footer-social']}>

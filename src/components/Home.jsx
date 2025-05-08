@@ -17,7 +17,7 @@ function Home() {
       >
         <div className={styles.tx}>
           <h1 id="tyw">
-          We specialize in
+          We specialize in 
             <ReactTypingEffect
               text={["Back Office Management ", "Inventory Management ", "Graphic Designing ", "Website Designing "]}
               speed={100} // Typing speed of each character
