@@ -397,6 +397,10 @@
     .tx button {
         width: 9rem ;
     }
+    .main .tx {
+        margin-top: 60px;
+
+    }
 }
 @media (max-width: 350px) {
     .main {
