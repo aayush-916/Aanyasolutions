@@ -43,7 +43,7 @@
     background-attachment: initial;
     background-origin: initial;
     background-clip: initial;
-    background-color: #0381fe;
+    background-color: #8455b6;
   }
   
   .contact_us_2 .responsive-container-block {
@@ -191,7 +191,7 @@
   
   .contact_us_2 .submit-btn {
     width: 98%;
-    background-color: #03a9f4;
+    background-color: #7732c2;
     height: 60px;
     font-size: 20px;
     font-weight: 700;
@@ -257,7 +257,7 @@
   }
   
   .contact_us_2 ::placeholder {
-    color: #dadada;
+    color: #a19d9d;
   }
   
   .contact_us_2 .blueBG {
@@ -266,7 +266,7 @@
     left: 0px;
     top: 0px;
     height: 300px;
-    background-color: #03a9f4;
+    background-color: #774ea3;
   }
   
   @media (max-width: 768px) {
@@ -639,12 +639,12 @@ body {
   }
   
   .contact_us_2 .contact-details span {
-	color: #ffff;
+	color: black;
 	font-weight: 700;
   }
   
   .contact_us_2 .contact-details a {
-	color: #111;
+	color: white;
 	text-decoration: none;
   }
   

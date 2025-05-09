@@ -43,7 +43,7 @@
     background-attachment: initial;
     background-origin: initial;
     background-clip: initial;
-    background-color: #7732c2;
+    background-color: #8455b6;
   }
   
   .contact_us_2 .responsive-container-block {
@@ -110,7 +110,7 @@
   }
   
   .contact_us_2 .text-blk.contactus-subhead {
-    color: #9c9c9c;
+    color: black;
     margin-top: 0px;
     margin-right: 0px;
     margin-bottom: 50px;
@@ -253,12 +253,16 @@
     margin-right: 0px;
     margin-bottom: 5px;
     margin-left: 0px;
-    color: #9c9c9c;
+    color: black;
   }
   
   .contact_us_2 ::placeholder {
-    color: #dadada;
+    color: #a19d9d;
   }
+  .placeholderOption {
+    color: #a19d9d;
+  }
+  
   
   .contact_us_2 .blueBG {
     position: absolute;
@@ -266,7 +270,7 @@
     left: 0px;
     top: 0px;
     height: 300px;
-    background-color: #7732c2;
+    background-color: #ededed;
   }
   
   @media (max-width: 768px) {
