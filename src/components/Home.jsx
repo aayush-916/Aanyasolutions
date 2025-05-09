@@ -17,11 +17,11 @@ function Home() {
       >
         <div className={styles.tx}>
           <h1 id="tyw">
-          We specialize in 
+          We specialize in <br/>
             <ReactTypingEffect
               text={["Back Office Management ", "Inventory Management ", "Graphic Designing ", "Website Designing "]}
               speed={100} // Typing speed of each character
-              eraseSpeed={100} // Erase speed of each character
+              eraseSpeed={1} // Erase speed of each character
               typingDelay={200} // Delay before typing each word
               eraseDelay={1200} // Delay before erasing each word
               className={styles.type}

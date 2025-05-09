@@ -13,6 +13,7 @@ import SoftwareDevelopment from './components/ServicesPage/SoftwareDevelopment';
 import WebsiteOptimisation from './components/ServicesPage/WebsiteOptimisation';
 import ScrollToTop from './ScrollToTop';
 import WebsiteDesigning from './components/ServicesPage/WebsiteDesigning';
+import PrivacyPolicy from './components/PrivacyPolicy';
 function App() {
 //https://cybertizeweb.com/
   return (
@@ -31,6 +32,7 @@ function App() {
           <Route path='/SoftwareDevelopment' exact Component={SoftwareDevelopment} />
           <Route path='/WebsiteDesigning' exact Component={WebsiteDesigning} />
           <Route path='/WebsiteOptimisation' exact Component={WebsiteOptimisation} />
+          <Route path='/PrivacyPolicy' exact Component={PrivacyPolicy} />
           <Route path='/support@' element={<Navigate to="/" replace />} />
           <Route path='/feed' element={<Navigate to="/" replace />} />
           

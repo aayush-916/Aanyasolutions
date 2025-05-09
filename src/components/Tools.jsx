@@ -48,7 +48,6 @@ function Tools() {
 
 
 
-
  <section id="skills" className={`skills-section hid ${web ? 'dis' : ''}`}>
   <div className="skills-grid">
     <div className="skill-item">

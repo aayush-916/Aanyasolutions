@@ -39,9 +39,9 @@ function Footer() {
         <div className={styles['footer-extra']}>
           <h3>More Information</h3>
           <p><Link to="/about">About Us</Link></p>
+          <p><Link to="/contact">Contact Us</Link></p>
           <p><Link to="/service">Our Services</Link></p>
-          <p><a href="/privacy-policy">Privacy Policy</a></p>
-          <p><a href="/terms">Terms of Service</a></p>
+          <p><a href="/PrivacyPolicy">Privacy Policy</a></p>
         </div>
       </div>
 
