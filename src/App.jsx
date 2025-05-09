@@ -10,9 +10,9 @@ import BackOfficeDetail from './components/ServicesPage/BackOfficeDetail';
 import GraphicDesigning from './components/ServicesPage/GraphicDesigning';
 import InventoryManagement from './components/ServicesPage/InventoryManagement';
 import SoftwareDevelopment from './components/ServicesPage/SoftwareDevelopment';
-import WebsiteDesigning from './components/ServicesPage/WebsiteDesigning';
 import WebsiteOptimisation from './components/ServicesPage/WebsiteOptimisation';
 import ScrollToTop from './ScrollToTop';
+import WebsiteDesigning from './components/ServicesPage/WebsiteDesigning';
 function App() {
 //https://cybertizeweb.com/
   return (

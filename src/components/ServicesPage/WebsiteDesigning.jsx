@@ -3,6 +3,7 @@ import './WebsiteDesigning.css';
 import { FaLaptopCode, FaCogs, FaEdit } from 'react-icons/fa';
 import Whatsapp from '../Whatsapp';
 import Footer from '../Footer';
+import Nav from '../Nav';
 
 const WebsiteDesigning = () => {
   return (
