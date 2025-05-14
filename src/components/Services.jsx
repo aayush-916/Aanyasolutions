@@ -23,6 +23,7 @@ function Services() {
 
       <div className="service-grid">
         {/* Back Office Management */}
+        <Link to="/BackOfficeDetail">
         <div className="service-card">
           <div className="icon-container">
             <div className="icon">
@@ -32,15 +33,15 @@ function Services() {
           <div className="service-card-content">
             <h3 className="service-card-title">Back Office Management</h3>
             <p className="service-card-text">
-              We handle your administrative processes, so you can focus on growing your business efficiently.
+              We handle your Data Entry and back office tasks, so you can focus on growing your business efficiently.
             </p>
-            <Link to="/BackOfficeDetail">
               <button className="button-87">Discover More ➜</button>
-            </Link>
           </div>
         </div>
+        </Link>
 
         {/* Inventory Management */}
+        <Link to="/InventoryManagement">
         <div className="service-card">
           <div className="icon-container">
             <div className="icon">
@@ -50,15 +51,16 @@ function Services() {
           <div className="service-card-content">
             <h3 className="service-card-title">Inventory Management</h3>
             <p className="service-card-text">
-              Optimize stock levels, reduce waste, and improve operational efficiency with our smart inventory solutions.
+              Optimize stock levels, eliminate errors, and improve operational efficiency with our smart inventory solutions.
             </p>
-            <Link to="/InventoryManagement">
+            
               <button className="button-87">Discover More ➜</button>
-            </Link>
           </div>
         </div>
+        </Link>
 
         {/* Graphic Designing */}
+        <Link to="/GraphicDesigning">
         <div className="service-card">
           <div className="icon-container">
             <div className="icon">
@@ -70,13 +72,14 @@ function Services() {
             <p className="service-card-text">
               We create eye-catching visuals and branding that captivate your audience and communicate your vision clearly.
             </p>
-            <Link to="/GraphicDesigning">
+            
               <button className="button-87">Discover More ➜</button>
-            </Link>
           </div>
         </div>
+        </Link>
 
         {/* Website Designing */}
+        <Link to="/WebsiteDesigning">
         <div className="service-card">
           <div className="icon-container">
             <div className="icon">
@@ -88,13 +91,13 @@ function Services() {
             <p className="service-card-text">
               Beautiful, responsive, and intuitive website designs that help you stand out online and convert more visitors.
             </p>
-            <Link to="/WebsiteDesigning">
               <button className="button-87">Discover More ➜</button>
-            </Link>
           </div>
         </div>
+        </Link>
 
         {/* Software Development */}
+        <Link to="/SoftwareDevelopment">
         <div className="service-card">
           <div className="icon-container">
             <div className="icon">
@@ -106,13 +109,13 @@ function Services() {
             <p className="service-card-text">
               From planning to deployment, we build efficient, scalable, and secure software tailored for your operations.
             </p>
-            <Link to="/SoftwareDevelopment">
               <button className="button-87">Discover More ➜</button>
-            </Link>
           </div>
         </div>
+        </Link>
 
         {/* Website Optimisation */}
+        <Link to="/WebsiteOptimisation">
         <div className="service-card">
           <div className="icon-container">
             <div className="icon">
@@ -124,11 +127,11 @@ function Services() {
             <p className="service-card-text">
               Improve speed, SEO, performance, and user experience with our result-driven website optimization strategies.
             </p>
-            <Link to="/WebsiteOptimisation">
+            
               <button className="button-87">Discover More ➜</button>
-            </Link>
           </div>
         </div>
+        </Link>
       </div>
     </motion.div>
   );

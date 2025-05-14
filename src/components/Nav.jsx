@@ -18,7 +18,9 @@ function Nav() {
     <div id='fix' className="fix">
       <nav className={`na ${toggle ? 'mna' : ''}`}>
         <div className='hd'>
-        <img src='./logo.png' className='brand'></img>
+        <Link to='/' onClick={bodyclick}>
+        <img src='/logo.png' className='brand'></img>
+        </Link>
         <h3 className='menu' onClick={handelclick}>☰</h3>
         </div>
         <ul className={`ull ${toggle ? 'active' : ''}`}>

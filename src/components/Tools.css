@@ -178,3 +178,41 @@
         
     }
 }
+
+
+
+.skill-item {
+    position: relative;
+    text-align: center;
+    margin: 10px;
+  }
+  
+  .skill-icon {
+    transition: transform 0.3s ease;
+  }
+  
+  .skill-item:hover .skill-icon {
+    transform: scale(1.1);
+  }
+  
+  .skill-name {
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    /* rgb(39, 222, 186) */
+    color: rgb(39, 164, 222); 
+    padding: 4px 8px;
+    border-radius: 5px;
+    font-size: 12px;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease, bottom 0.3s ease;
+  }
+  
+  .skill-item:hover .skill-name {
+    opacity: 1;
+    bottom: -25px;
+  }
+  

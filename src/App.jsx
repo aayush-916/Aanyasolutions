@@ -14,29 +14,31 @@ import WebsiteOptimisation from './components/ServicesPage/WebsiteOptimisation';
 import ScrollToTop from './ScrollToTop';
 import WebsiteDesigning from './components/ServicesPage/WebsiteDesigning';
 import PrivacyPolicy from './components/PrivacyPolicy';
+import BlogPage from './pages/BlogPage';
+import SingleBlogPage from './pages/SingleBlogPage';
 function App() {
 //https://cybertizeweb.com/
   return (
     <>
       <Router>
       <ScrollToTop />
-        <Routes>
-          <Route path='/' exact Component={Root} />
-          <Route path='/blog' exact Component={Blog} />
-          <Route path='/about' exact Component={About} />
-          <Route path='/contact' exact Component={ContactUs} />
-          <Route path='/service' exact Component={ServicesPage} />
-          <Route path='/BackOfficeDetail' exact Component={BackOfficeDetail} />
-          <Route path='/GraphicDesigning' exact Component={GraphicDesigning} />
-          <Route path='/InventoryManagement' exact Component={InventoryManagement} />
-          <Route path='/SoftwareDevelopment' exact Component={SoftwareDevelopment} />
-          <Route path='/WebsiteDesigning' exact Component={WebsiteDesigning} />
-          <Route path='/WebsiteOptimisation' exact Component={WebsiteOptimisation} />
-          <Route path='/PrivacyPolicy' exact Component={PrivacyPolicy} />
-          <Route path='/support@' element={<Navigate to="/" replace />} />
-          <Route path='/feed' element={<Navigate to="/" replace />} />
-          
-        </Routes>
+      <Routes>
+  <Route path='/' element={<Root />} />
+  <Route path='/blog' element={<BlogPage />} />
+  <Route path='/blog/:id' element={<SingleBlogPage />} />
+  <Route path='/about' element={<About />} />
+  <Route path='/contact' element={<ContactUs />} />
+  <Route path='/service' element={<ServicesPage />} />
+  <Route path='/BackOfficeDetail' element={<BackOfficeDetail />} />
+  <Route path='/GraphicDesigning' element={<GraphicDesigning />} />
+  <Route path='/InventoryManagement' element={<InventoryManagement />} />
+  <Route path='/SoftwareDevelopment' element={<SoftwareDevelopment />} />
+  <Route path='/WebsiteDesigning' element={<WebsiteDesigning />} />
+  <Route path='/WebsiteOptimisation' element={<WebsiteOptimisation />} />
+  <Route path='/PrivacyPolicy' element={<PrivacyPolicy />} />
+  <Route path='/support@' element={<Navigate to="/" replace />} />
+  <Route path='/feed' element={<Navigate to="/" replace />} />
+</Routes>
       </Router>
     </>
   )

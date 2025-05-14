@@ -4,24 +4,20 @@ import Contact from './components/Contact'
 import Footer from './components/Footer'
 import Home from './components/Home'
 import Nav from './components/Nav'
-import Project from './components/Project'
 import Services from './components/Services'
 import Tools from './components/Tools'
 import Whatsapp from './components/Whatsapp'
 import { Helmet } from "react-helmet";
 import WhyChooseUs from './components/WhyChooseUs'
+import FAQ from './components/FAQ'
+import BlogThree from './components/BlogThree'
 
 function App() {
-//https://cybertizeweb.com/
   return (
     <>
     <Helmet>
-        <title>Aanya Solutions | Website Development Company in India</title>
-        <meta
-          name="description"
-          content="Aanya Solutions - Your trusted partner for website design, app development, and software solutions in India. We specialize in modern, user-friendly websites, innovative apps, and comprehensive IT services to help businesses grow."
-        />
-      </Helmet>
+        
+    </Helmet>
 
       <Nav/>
       <Whatsapp/>
@@ -30,6 +26,8 @@ function App() {
       <Tools/>
       <WhyChooseUs/>
       <Client/>
+      <FAQ/>
+      <BlogThree/>
       <Contact/>
       <Footer/>
     </>
