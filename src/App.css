@@ -467,7 +467,7 @@ li {
   color: #555;
   font-size: 1rem;
   line-height: 1.7;
-  text-align: justify;
+  text-align: left;
 }
 
 .card a {
@@ -590,36 +590,36 @@ li {
   margin: auto;
   font-size: 1.1rem;
   line-height: 1.8;
-  text-align: justify;
+  text-align: left;
   color: #333;
 }
 
 .single-blog h1 {
   font-size: 2.2rem;
   margin-bottom: 1rem;
-  text-align: justify;
+  text-align: left;
 }
 
-.single-blog img {
+/* .single-blog img {
   width: 600px;
   height: 300px;
   margin-bottom: 1.5rem;
   border-radius: 12px;
-}
-
+} */
+/* 
 .single-blog h2 {
   font-size: 1.5rem;
   margin-top: 2rem;
   text-align: justify;
-}
+} */
 
 .single-blog ul {
   padding-left: 1.5rem;
   margin: 1rem 0;
-  text-align: justify;
+  text-align: left;
 }
 .single-blog p {
-  text-align: justify;
+  text-align: left;
 }
 .single-blog ul li {
   margin-bottom: 0.5rem;
