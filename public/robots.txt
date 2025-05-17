@@ -2,7 +2,7 @@ User-agent: *
 Disallow: /admin  
 Disallow: /feed 
 Disallow: /checkout  
-Disallow: /Support@leafcode.in  
+Disallow: /  
 Allow: /
 
-Sitemap: https://leafcode.in/sitemap.xml
+Sitemap: https://aanyasolutions.com/sitemap.xml
