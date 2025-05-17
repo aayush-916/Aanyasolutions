@@ -14,9 +14,18 @@ function ServicesPage() {
   return (
     <>
     <Helmet>
-        <title>Services - Aanya Solutions</title>
-        
-      </Helmet>
+    <title>Our Services | Back Office, Inventory Management & Data Entry - Aanya Solutions</title>
+    <meta
+      name="description"
+      content="Explore our professional services including back office work, inventory management, data entry, and report creation. Aanya Solutions delivers cost-effective support from India to businesses in the USA."
+    />
+    <meta
+      name="keywords"
+      content="back office services, inventory management company in India, data entry outsourcing, report creation services, low cost back office support, Aanya Solutions"
+    />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://www.aanyasolutions.com/services" />
+  </Helmet>
         <Nav/>
         <Whatsapp/>
         <Services/>

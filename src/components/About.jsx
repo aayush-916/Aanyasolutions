@@ -1,11 +1,24 @@
 import React from 'react';
 import './About.css';
-import { FaUsers, FaBullseye, FaLightbulb } from 'react-icons/fa';
 import Nav from './Nav'
 import Footer from './Footer';
+import { Helmet } from "react-helmet";
 const About = () => {
   return (
     <section className="about-section">
+      <Helmet>
+    <title>About Us | Back Office & Inventory Management Services - Aanya Solutions</title>
+    <meta
+      name="description"
+      content="Learn more about Aanya Solutions – your trusted partner for professional back office work, inventory management, data entry, and report creation services in the USA."
+    />
+    <meta
+      name="keywords"
+      content="back office work company in India, inventory management company, data entry services, report creation services, low-cost back office support, Aanya Solutions"
+    />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://www.aanyasolutions.com/aboutus" />
+  </Helmet>
       <Nav/>
       <div className="about-container">
         <h2 className="about-title center">WHO WE ARE</h2>
