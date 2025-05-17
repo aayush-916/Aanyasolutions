@@ -16,6 +16,7 @@ import WebsiteDesigning from './components/ServicesPage/WebsiteDesigning';
 import PrivacyPolicy from './components/PrivacyPolicy';
 import BlogPage from './pages/BlogPage';
 import SingleBlogPage from './pages/SingleBlogPage';
+
 function App() {
 //https://cybertizeweb.com/
   return (
