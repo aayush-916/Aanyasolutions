@@ -502,7 +502,85 @@ export const blogs = [
     
     <p><strong>Keywords:</strong> outsource back office operations USA, Indian back office support for US firms, virtual back office services India, back-end process outsourcing India, business process outsourcing India USA, remote admin support India for USA</p>
     `
+    },
+    {
+      id: "9",
+      title: "Infios (Retail Vantage): The Backbone of Inventory & Operations for Furniture Retailers",
+      description: "Learn how Retail Vantage by Profit Systems — now Infios — empowers furniture businesses with smarter inventory, POS, and back office management.",
+      image: "/Blog_img/e-commerce-402822_1280.jpg",
+      metaTitle: "Infios (Retail Vantage) Support for Furniture Retailers | Profit System Software Help",
+      metaDescription: "We provide back office services for furniture retailers using Infios (formerly Retail Vantage). Get expert help managing POS, inventory, POs, and catalog updates with Profit System software.",
+      metaKeywords: "Infios, Retail Vantage, Profit System software, Infios support services, Retail Vantage back office help, outsource Infios operations, Infios catalog management, Infios data entry, Infios purchase order processing, Profit Systems for furniture retailers, Infios ERP support, Retail Vantage inventory services, Infios back office team India, Infios furniture retail software, Infios outsourcing USA",
+      content: `
+    <p>If you're in the furniture retail business and use <strong>Infios (formerly Retail Vantage)</strong>, you already know how powerful this platform is for managing inventory, point of sale (POS), purchasing, and vendor workflows. But with great power comes complexity — and that's where our team comes in.</p>
+    
+    <p>We specialize in <strong>back office support for businesses using Infios</strong>, helping U.S.-based furniture retailers and distributors unlock the full value of this powerful Profit System software — without the daily admin burden.</p>
+    
+    <h2>What Is Infios (Retail Vantage)?</h2>
+    <p>Infios is the next-generation version of Retail Vantage, a comprehensive retail management software developed by <strong>Profit Systems</strong>. It’s used widely in the furniture industry for:</p>
+    
+    <ul>
+      <li>Inventory tracking and forecasting</li>
+      <li>POS system integration</li>
+      <li>Order and purchase management</li>
+      <li>Customer and vendor data handling</li>
+      <li>Warehouse visibility and transfer coordination</li>
+    </ul>
+    
+    <p>Retailers using Infios benefit from end-to-end visibility across stores, warehouses, and vendors — but it requires disciplined data entry, constant updating, and an experienced hand to maintain clean and functional workflows.</p>
+    
+    <h2>Our Infios (Retail Vantage) Back Office Services</h2>
+    <p>We offer dedicated <strong>Infios back office support</strong> for furniture retailers in the USA who need help managing and optimizing the software on a daily basis. Our trained team in India supports your operations remotely while integrating smoothly with your staff and schedule.</p>
+    
+    <ul>
+      <li><strong>Inventory Entry & Adjustments:</strong> Maintain accurate inventory records, enter new stock, and reconcile discrepancies between your warehouse and system.</li>
+      <li><strong>Purchase Order Management:</strong> Create, update, and track POs within Infios, ensuring your procurement workflow stays organized and up-to-date.</li>
+      <li><strong>Product Setup:</strong> Enter new SKUs, product descriptions, vendor info, dimensions, and pricing — formatted properly for Infios.</li>
+      <li><strong>Catalog Maintenance:</strong> Clean up outdated or duplicate entries, and organize your catalog by category, brand, or supplier.</li>
+      <li><strong>Reporting Support:</strong> Assist with pulling and formatting Infios-based inventory, sales, and purchasing reports for leadership or internal review.</li>
+    </ul>
+    
+    <h2>Why Outsource Infios Support?</h2>
+    <p>Infios is a powerful but detail-sensitive platform. Many U.S. retailers struggle to maintain the level of consistency required to avoid errors in orders, deliveries, or inventory valuation. Outsourcing to our team helps you:</p>
+    
+    <ul>
+      <li>Keep your Infios database clean, fast, and accurate</li>
+      <li>Reduce workload on in-house admin and warehouse teams</li>
+      <li>Speed up PO processing and order management</li>
+      <li>Get scalable support as you grow locations or SKUs</li>
+    </ul>
+    
+    <h2>Who We Work With</h2>
+    <ul>
+      <li>Furniture retailers using Retail Vantage / Infios</li>
+      <li>Home goods distributors with multi-warehouse operations</li>
+      <li>Retail chains with POS and ERP systems powered by Profit Systems</li>
+      <li>eCommerce furniture businesses seeking Infios catalog support</li>
+    </ul>
+    
+    <h2>Our Remote Back Office Process</h2>
+    <ol>
+      <li><strong>Infios Onboarding:</strong> We learn your specific system setup, SKU rules, vendors, and workflows</li>
+      <li><strong>Data Sync Setup:</strong> Establish secure access and daily task responsibilities (inventory, POs, etc.)</li>
+      <li><strong>Daily Operations:</strong> Our team executes updates, entries, and reports with quality checks in place</li>
+      <li><strong>Ongoing Collaboration:</strong> Regular check-ins and flexibility to scale or adjust scope</li>
+    </ol>
+    
+    <h2>Infios Admin Help That Just Works</h2>
+    <p>Whether you’re expanding to new store locations, onboarding new product lines, or just want cleaner back-end workflows — our Infios support team is here to help. We’ve worked with small shops and national chains alike to deliver <strong>reliable Retail Vantage back office support</strong> from India to the USA.</p>
+    
+    <p><strong>Let’s talk about:</strong></p>
+    <ul>
+      <li>Fixing outdated or messy Infios catalogs</li>
+      <li>Speeding up PO and inventory data entry</li>
+      <li>Creating clean SKU structures with vendor info</li>
+      <li>Syncing warehouse and system inventory in real-time</li>
+    </ul>
+    
+    <p><strong>Keywords:</strong> Infios support services, Retail Vantage back office help, Profit System software for furniture, outsource Retail Vantage tasks, Infios purchase order support, Indian back office team for Infios, Infios inventory data entry, Infios software management USA, Profit Systems furniture software, Infios catalog maintenance</p>
+    `
     }
+    
     
     
     
