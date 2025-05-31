@@ -34,11 +34,11 @@ a{
   transition: all 0.4s ease;
 }
 .brand{
-  margin-top: -4px;
+  margin-top: -25px;
   margin-left: 7rem;
   color: black;
-  width: 15rem;
-  height: 78px;
+  width: 11rem;
+  height: 129px;
   }
 li {
   list-style: none;
@@ -115,11 +115,11 @@ li {
 
 @media (max-width: 1100px) {
   .brand{
-    margin-top: -4px;
+    margin-top: -25px;
     margin-left: 1rem;
     color: black;
-    width: 15rem;
-    height: 78px;
+    width: 10rem;
+    height: 129px;
     }
     .ull{
       display: flex;
@@ -136,12 +136,12 @@ li {
     left: 25%; /* Start from the center */
   }
   .brand{
-    margin-top: -6px !important;
+    margin-top: -15px !important;
     margin-right: 0rem;
     margin-left: 0px;
     gap: 20px;
-    width: 9rem;
-    height: 78px;
+    width: 8rem;
+    height: 103px;
     position: relative;
     right: 10px;
     }
@@ -199,7 +199,7 @@ li {
     }
   .hd{
     display: flex;
-    gap: 20vw;
+    gap: 35vw;
   }
 }
 /* ............NAV BAR End............................................ */
@@ -218,7 +218,7 @@ li {
   text-align: center;
   font-size: 2.5rem;
   font-weight: 700;
-  color: #111;
+  color: rgb(41 66 247);
   margin-bottom: 40px;
 }
 
@@ -350,9 +350,10 @@ li {
 
 .clients-love-title {
   font-size: 2.2rem;
-  color: #222;
+  color: rgb(41 66 247);
   margin-bottom: 1rem;
   text-align: center;
+  margin-bottom: 50px;
 }
 
 .clients-love-text {
@@ -360,6 +361,7 @@ li {
   line-height: 1.8;
   margin-bottom: 1.2rem;
   color: #444;
+  text-align: justify;
 }
 
 /* Animations */
@@ -408,7 +410,15 @@ li {
   }
 
   .clients-love-title {
-    text-align: left;
+    text-align: center;
+  }
+}
+@media (max-width: 400px) {
+  .clients-love-title {
+    margin-bottom: 0px;
+  }
+  .clients-love-section {
+    padding: 2rem 1rem;
   }
 }
 
@@ -428,7 +438,7 @@ li {
   text-align: center;
   margin-bottom: 2rem;
   font-size: 2.5rem;
-  color: #333;
+  color: rgb(41 66 247);
 }
 
 .grid {

@@ -21,6 +21,9 @@ const About = () => {
   </Helmet>
       <Nav/>
       <div className="about-container">
+      <div className="about-image">
+            <img src="/idea.jpg" alt="Team Working" />
+          </div>
         <h2 className="about-title center">WHO WE ARE</h2>
         <div className="about-flex">
           <div className="about-text">
@@ -34,9 +37,7 @@ const About = () => {
               At Aanya Solutions, we believe in clarity, collaboration, and a client-centric approach. We strive to build long-term relationships based on trust and a shared vision for success. Let us handle the intricacies, so you can focus on what you do best – leading and growing your business.
             </p>
           </div>
-          <div className="about-image">
-            <img src="/idea.jpg" alt="Team Working" />
-          </div>
+          
         </div>
 
         <div className="vision-mission-section">

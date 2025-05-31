@@ -16,6 +16,7 @@
     margin-bottom: 10px;
     text-align: center;
     font-weight: 800;
+    color: rgb(41 66 247);
 }
 .container3 .text p{
     font-size: 17px;
@@ -52,7 +53,7 @@
 
 }
 .container3 .nav3 .cli{
-    background-color: #b32fff;
+    background-color: rgb(41 66 247);
     color: black;
 
 }

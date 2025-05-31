@@ -3,7 +3,6 @@
     max-width: 1200px;
     margin: 0 auto;
     padding: 60px 20px;
-    background: linear-gradient(to right, #f4f7f9, #eef2f5);
     border-radius: 16px;
     box-shadow: 0 12px 40px rgba(0, 0, 0, 0.1);
     animation: fadeIn 1.2s ease-in-out;
@@ -32,15 +31,18 @@
 
   .center{
     text-align: center;
-    color: #b32fff;
+    color: rgb(41 66 247);
   }
   /* Section Text */
   .about-text {
     font-size: 1.15rem;
     line-height: 1.9;
     color: #333;
-    text-align: justify;
+    text-align: justify !important;
     padding: 10px;
+  }
+  .about-text p{
+    text-align: justify !important;
   }
   
   /* Images */

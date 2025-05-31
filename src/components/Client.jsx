@@ -4,12 +4,13 @@ import '../App.css';
 const Client = () => {
   return (
     <section className="clients-love-section">
+      <h2 className="clients-love-title">Why Our Clients Love Aanya Solutions</h2>
       <div className="clients-love-container">
         <div className="clients-love-image-container">
           <img src="/people.png" alt="Happy Clients" className="clients-love-image" />
         </div>
         <div className="clients-love-content">
-          <h2 className="clients-love-title">Why Our Clients Love Aanya Solutions</h2>
+          
           <p className="clients-love-text">
             At Aanya Solutions, our clients value us not just for the services we offer, but for the way we deliver them. From streamlining back office operations to designing impactful websites and managing inventory effectively — we offer a complete package that saves time and drives business growth.
           </p>

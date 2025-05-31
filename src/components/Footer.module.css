@@ -22,7 +22,7 @@
   
   .footer-brand h2 {
     font-size: 1.8rem;
-    color: #ffff;
+    color: rgb(108, 123, 237);
     margin-bottom: 10px;
     margin-left: 14px;
   }
@@ -35,7 +35,7 @@
   .footer-details h3, .footer-social h3, .footer-extra h3 {
     font-size: 1.2rem;
     margin-bottom: 15px;
-    color: #f5f5f5;
+    color: rgb(108, 123, 237);
     
   }
   .footer-details h3{

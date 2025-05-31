@@ -191,7 +191,7 @@
   
   .contact_us_2 .submit-btn {
     width: 98%;
-    background-color: #7732c2;
+    background-color: rgb(41 66 247) !important;;
     height: 60px;
     font-size: 20px;
     font-weight: 700;
@@ -593,4 +593,8 @@ body {
   .wk-mobile-12 {
     width: 100%;
   }
+}
+
+.contactus-head{
+  color: rgb(41 66 247) !important;;
 }
